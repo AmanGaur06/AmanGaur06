@@ -1,3 +1,4 @@
+![Simple Work LinkedIn Banner](https://github.com/AmanGaur06/AmanGaur06/assets/111776980/bb61ee46-0a55-43b4-9c66-9965905e5a8a)
 
 # 💫 About Me:
 🌱 I’m currently learning Python,Sql,Excel and Power BI<br>💬 Ask me about Python<br>⚡ Fun fact  I am funny :)
